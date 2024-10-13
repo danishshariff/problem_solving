@@ -4,6 +4,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
 | [0029-divide-two-integers](https://github.com/danishshariff/problem_solving/tree/master/0029-divide-two-integers) |
 ## Bit Manipulation
 |  |
@@ -42,4 +43,12 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
