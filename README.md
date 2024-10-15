@@ -41,6 +41,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
 |  |
 | ------- |
@@ -69,10 +70,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
+| [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
+| [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
 | ------- |
