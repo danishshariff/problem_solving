@@ -9,11 +9,13 @@
 | [0009-palindrome-number](https://github.com/danishshariff/problem_solving/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/danishshariff/problem_solving/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/danishshariff/problem_solving/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/danishshariff/problem_solving/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
