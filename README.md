@@ -8,6 +8,7 @@
 | [0007-reverse-integer](https://github.com/danishshariff/problem_solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/danishshariff/problem_solving/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/danishshariff/problem_solving/tree/master/0029-divide-two-integers) |
+| [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -19,6 +20,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/danishshariff/problem_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
@@ -62,6 +64,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
