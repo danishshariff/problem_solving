@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 ## Sliding Window
@@ -54,6 +55,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
 |  |
@@ -75,6 +77,7 @@
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
+| [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 ## Divide and Conquer
 |  |
