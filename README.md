@@ -10,6 +10,7 @@
 | [0029-divide-two-integers](https://github.com/danishshariff/problem_solving/tree/master/0029-divide-two-integers) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
+| [0670-maximum-swap](https://github.com/danishshariff/problem_solving/tree/master/0670-maximum-swap) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0670-maximum-swap](https://github.com/danishshariff/problem_solving/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
