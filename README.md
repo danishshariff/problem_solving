@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [0670-maximum-swap](https://github.com/danishshariff/problem_solving/tree/master/0670-maximum-swap) |
+| [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -92,4 +94,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/danishshariff/problem_solving/tree/master/0191-number-of-1-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
