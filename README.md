@@ -29,6 +29,7 @@
 | [0283-move-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0792-binary-search](https://github.com/danishshariff/problem_solving/tree/master/0792-binary-search) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0033-search-in-rotated-sorted-array) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/danishshariff/problem_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0792-binary-search](https://github.com/danishshariff/problem_solving/tree/master/0792-binary-search) |
 ## Greedy
 |  |
 | ------- |
