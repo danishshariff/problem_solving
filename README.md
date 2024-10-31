@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/danishshariff/problem_solving/tree/master/0029-divide-two-integers) |
+| [0136-single-number](https://github.com/danishshariff/problem_solving/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/danishshariff/problem_solving/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
@@ -32,6 +33,7 @@
 | [0035-search-insert-position](https://github.com/danishshariff/problem_solving/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/danishshariff/problem_solving/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/danishshariff/problem_solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0136-single-number](https://github.com/danishshariff/problem_solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/danishshariff/problem_solving/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
