@@ -11,6 +11,6 @@ public:
      reverse(st.begin(),st.end());
      if(st==goal) return true;
     }
-     return false;
+    return false; 
     }
 };
