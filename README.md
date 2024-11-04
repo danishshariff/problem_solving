@@ -39,6 +39,7 @@
 | [0136-single-number](https://github.com/danishshariff/problem_solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/danishshariff/problem_solving/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/danishshariff/problem_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
@@ -58,6 +59,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/danishshariff/problem_solving/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -96,6 +98,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/danishshariff/problem_solving/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 ## Heap (Priority Queue)
@@ -142,6 +145,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/danishshariff/problem_solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/danishshariff/problem_solving/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/danishshariff/problem_solving/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
@@ -167,4 +171,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/danishshariff/problem_solving/tree/master/0812-rotate-string) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
