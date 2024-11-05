@@ -140,6 +140,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danishshariff/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [2580-circular-sentence](https://github.com/danishshariff/problem_solving/tree/master/2580-circular-sentence) |
+| [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/danishshariff/problem_solving/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 | [3451-string-compression-iii](https://github.com/danishshariff/problem_solving/tree/master/3451-string-compression-iii) |
 ## Divide and Conquer
