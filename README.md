@@ -61,6 +61,7 @@
 | [0907-koko-eating-bananas](https://github.com/danishshariff/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -99,6 +100,7 @@
 | [0907-koko-eating-bananas](https://github.com/danishshariff/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/danishshariff/problem_solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
@@ -155,6 +157,7 @@
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
@@ -216,4 +219,12 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
+## Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 <!---LeetCode Topics End-->
