@@ -73,6 +73,7 @@
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/danishshariff/problem_solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/danishshariff/problem_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -120,6 +121,7 @@
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3522-find-the-power-of-k-size-subarrays-i](https://github.com/danishshariff/problem_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
 | ------- |
