@@ -58,6 +58,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0792-binary-search](https://github.com/danishshariff/problem_solving/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/danishshariff/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +99,7 @@
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/danishshariff/problem_solving/tree/master/0792-binary-search) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/danishshariff/problem_solving/tree/master/0907-koko-eating-bananas) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/danishshariff/problem_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
@@ -136,6 +139,7 @@
 |  |
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Linked List
@@ -216,6 +220,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
 ## Number Theory
 |  |
@@ -229,4 +234,12 @@
 |  |
 | ------- |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+## Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
