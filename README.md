@@ -109,6 +109,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/danishshariff/problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/danishshariff/problem_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/danishshariff/problem_solving/tree/master/3195-separate-black-and-white-balls) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/danishshariff/problem_solving/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Prefix Sum
 |  |
 | ------- |
