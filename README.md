@@ -28,6 +28,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2509-minimize-xor](https://github.com/danishshariff/problem_solving/tree/master/2509-minimize-xor) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/danishshariff/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/danishshariff/problem_solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/danishshariff/problem_solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -85,6 +86,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/danishshariff/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/danishshariff/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/danishshariff/problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -325,4 +327,8 @@
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Brainteaser
+|  |
+| ------- |
+| [2533-bitwise-xor-of-all-pairings](https://github.com/danishshariff/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 <!---LeetCode Topics End-->
