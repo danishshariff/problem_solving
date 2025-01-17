@@ -59,6 +59,7 @@
 | [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/danishshariff/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/danishshariff/problem_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0283-move-zeroes) |
@@ -291,6 +292,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/danishshariff/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
