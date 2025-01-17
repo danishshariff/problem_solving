@@ -30,6 +30,7 @@
 | [2509-minimize-xor](https://github.com/danishshariff/problem_solving/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danishshariff/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/danishshariff/problem_solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/danishshariff/problem_solving/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/danishshariff/problem_solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/danishshariff/problem_solving/tree/master/3394-minimum-array-end) |
@@ -93,6 +94,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/danishshariff/problem_solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/danishshariff/problem_solving/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/danishshariff/problem_solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/danishshariff/problem_solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3291-find-if-array-can-be-sorted](https://github.com/danishshariff/problem_solving/tree/master/3291-find-if-array-can-be-sorted) |
