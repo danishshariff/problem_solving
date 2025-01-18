@@ -194,11 +194,13 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
+| [0206-reverse-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 ## Two Pointers
