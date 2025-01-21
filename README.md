@@ -196,6 +196,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/danishshariff/problem_solving/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/danishshariff/problem_solving/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -211,6 +212,7 @@
 | [0011-container-with-most-water](https://github.com/danishshariff/problem_solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/danishshariff/problem_solving/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/danishshariff/problem_solving/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/danishshariff/problem_solving/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
