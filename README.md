@@ -82,6 +82,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/danishshariff/problem_solving/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/danishshariff/problem_solving/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/danishshariff/problem_solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -275,6 +276,7 @@
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/danishshariff/problem_solving/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
+| [2145-grid-game](https://github.com/danishshariff/problem_solving/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Simulation
 |  |
@@ -305,6 +307,7 @@
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2145-grid-game](https://github.com/danishshariff/problem_solving/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/danishshariff/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 ## Number Theory
 |  |
