@@ -47,6 +47,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/danishshariff/problem_solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/danishshariff/problem_solving/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/danishshariff/problem_solving/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/danishshariff/problem_solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/danishshariff/problem_solving/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0073-set-matrix-zeroes) |
@@ -359,4 +360,8 @@
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/danishshariff/problem_solving/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
