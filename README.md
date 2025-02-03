@@ -360,9 +360,22 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/danishshariff/problem_solving/tree/master/0051-n-queens) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
