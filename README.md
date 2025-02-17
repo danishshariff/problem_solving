@@ -248,6 +248,7 @@
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1524-string-matching-in-an-array) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danishshariff/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/danishshariff/problem_solving/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/danishshariff/problem_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -331,6 +332,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/danishshariff/problem_solving/tree/master/0020-valid-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
