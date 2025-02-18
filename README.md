@@ -69,6 +69,7 @@
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/danishshariff/problem_solving/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -118,6 +119,7 @@
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -331,11 +333,13 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/danishshariff/problem_solving/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 ## Queue
 |  |
