@@ -333,6 +333,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/danishshariff/problem_solving/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/danishshariff/problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -344,6 +345,7 @@
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/danishshariff/problem_solving/tree/master/0225-implement-stack-using-queues) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -386,4 +388,8 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/danishshariff/problem_solving/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
