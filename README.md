@@ -335,6 +335,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/danishshariff/problem_solving/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/danishshariff/problem_solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/danishshariff/problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0503-next-greater-element-ii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -349,6 +350,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/danishshariff/problem_solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/danishshariff/problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 ## Monotonic Queue
 |  |
@@ -395,4 +397,5 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/danishshariff/problem_solving/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/danishshariff/problem_solving/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
