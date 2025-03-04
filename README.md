@@ -93,6 +93,7 @@
 | [2145-grid-game](https://github.com/danishshariff/problem_solving/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/danishshariff/problem_solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2227-sum-of-subarray-ranges](https://github.com/danishshariff/problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danishshariff/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -351,6 +352,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2227-sum-of-subarray-ranges](https://github.com/danishshariff/problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -359,6 +361,7 @@
 | [0503-next-greater-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2227-sum-of-subarray-ranges](https://github.com/danishshariff/problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 ## Queue
 |  |
 | ------- |
