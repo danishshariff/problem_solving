@@ -75,6 +75,7 @@
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/danishshariff/problem_solving/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/danishshariff/problem_solving/tree/master/0907-koko-eating-bananas) |
@@ -303,6 +304,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/danishshariff/problem_solving/tree/master/0054-spiral-matrix) |
+| [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -345,6 +347,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/danishshariff/problem_solving/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
