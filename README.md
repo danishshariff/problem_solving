@@ -17,6 +17,7 @@
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/danishshariff/problem_solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
+| [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
 |  |
@@ -110,6 +111,7 @@
 | [2792-neighboring-bitwise-xor](https://github.com/danishshariff/problem_solving/tree/master/2792-neighboring-bitwise-xor) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/danishshariff/problem_solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/danishshariff/problem_solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
+| [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/danishshariff/problem_solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danishshariff/problem_solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -136,6 +138,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/danishshariff/problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/danishshariff/problem_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/danishshariff/problem_solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
@@ -307,6 +310,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
 | [2145-grid-game](https://github.com/danishshariff/problem_solving/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
