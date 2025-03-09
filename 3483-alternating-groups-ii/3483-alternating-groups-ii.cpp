@@ -44,37 +44,36 @@ public:
  int numberOfAlternatingGroups(vector<int>& colors, int k) {
     int n = colors.size();
     
-    // Build diff array: 1 if adjacent tiles are different, 0 otherwise.
+    // Create an array that marks where adjacent tiles differ.
     vector<int> diff(n);
     for (int i = 0; i < n; i++) {
         diff[i] = (colors[i] != colors[(i + 1) % n]) ? 1 : 0;
     }
     
-    // Extend the diff array to handle the wrap-around.
-    vector<int> ext(n + k - 1);
-    for (int i = 0; i < n; i++) {
-        ext[i] = diff[i];
-    }
-    for (int i = n; i < n + k - 1; i++) {
-        ext[i] = diff[i - n];
+    int windowSize = k - 1;  // Number of adjacent pairs in a group of k tiles.
+    int sum = 0;
+    
+    // Calculate the sum for the initial window (starting at index 0).
+    for (int j = 0; j < windowSize; j++) {
+        sum += diff[j];
     }
     
-    // Build prefix sum for the extended diff array.
-    vector<int> prefix(ext.size() + 1, 0);
-    for (int i = 0; i < ext.size(); i++) {
-        prefix[i + 1] = prefix[i] + ext[i];
+    int count = 0;
+    if (sum == windowSize)
+        count++;
+    
+    // Slide the window for starting indices 1 through n-1.
+    for (int i = 1; i < n; i++) {
+        // Remove the element leaving the window and add the new element entering the window.
+        // The leaving element is diff[i - 1].
+        // The new element is diff[(i + windowSize - 1) % n] because we wrap around using mod.
+        sum = sum - diff[i - 1] + diff[(i + windowSize - 1) % n];
+        if (sum == windowSize)
+            count++;
     }
     
-    // Count the number of groups with alternating colors.
-    int ans = 0;
-    // Each group starting at index i spans indices [i, i+k-1) in ext.
-    for (int i = 0; i < n; i++) {
-        // The group is alternating if the sum of diff values is exactly k-1.
-        if (prefix[i + k - 1] - prefix[i] == k - 1)
-            ans++;
-    }
-    
-    return ans;
+    return count;
 }
+
 
 };
