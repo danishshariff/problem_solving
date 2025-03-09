@@ -118,6 +118,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/danishshariff/problem_solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/danishshariff/problem_solving/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/danishshariff/problem_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
@@ -195,6 +196,7 @@
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/danishshariff/problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/danishshariff/problem_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3483-alternating-groups-ii](https://github.com/danishshariff/problem_solving/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/danishshariff/problem_solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Sorting
 |  |
