@@ -300,6 +300,7 @@
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/danishshariff/problem_solving/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danishshariff/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -415,6 +416,7 @@
 | [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
 | [0937-online-stock-span](https://github.com/danishshariff/problem_solving/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
+| [1078-remove-outermost-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1078-remove-outermost-parentheses) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/danishshariff/problem_solving/tree/master/2227-sum-of-subarray-ranges) |
