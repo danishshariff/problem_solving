@@ -18,6 +18,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/danishshariff/problem_solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2610-closest-prime-numbers-in-range](https://github.com/danishshariff/problem_solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
+| [2998-count-symmetric-integers](https://github.com/danishshariff/problem_solving/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Bit Manipulation
@@ -504,4 +505,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/danishshariff/problem_solving/tree/master/0937-online-stock-span) |
+## Enumeration
+|  |
+| ------- |
+| [2998-count-symmetric-integers](https://github.com/danishshariff/problem_solving/tree/master/2998-count-symmetric-integers) |
 <!---LeetCode Topics End-->
