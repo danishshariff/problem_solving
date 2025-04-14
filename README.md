@@ -104,6 +104,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1524-string-matching-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1656-count-good-triplets](https://github.com/danishshariff/problem_solving/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/danishshariff/problem_solving/tree/master/1755-defuse-the-bomb) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
@@ -514,6 +515,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/danishshariff/problem_solving/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/danishshariff/problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/danishshariff/problem_solving/tree/master/2998-count-symmetric-integers) |
 ## Combinatorics
