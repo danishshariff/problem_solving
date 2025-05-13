@@ -24,6 +24,7 @@
 | [2998-count-symmetric-integers](https://github.com/danishshariff/problem_solving/tree/master/2998-count-symmetric-integers) |
 | [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -182,6 +183,7 @@
 | [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/danishshariff/problem_solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/danishshariff/problem_solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/danishshariff/problem_solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Binary Search
 |  |
@@ -340,6 +342,7 @@
 | [3451-string-compression-iii](https://github.com/danishshariff/problem_solving/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/danishshariff/problem_solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -361,6 +364,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/danishshariff/problem_solving/tree/master/2262-solving-questions-with-brainpower) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Memoization
 |  |
 | ------- |
@@ -407,6 +411,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/danishshariff/problem_solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Prefix Sum
 |  |
 | ------- |
