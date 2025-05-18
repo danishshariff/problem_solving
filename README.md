@@ -332,6 +332,7 @@
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
+| [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danishshariff/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -402,6 +403,7 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/danishshariff/problem_solving/tree/master/0812-rotate-string) |
+| [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danishshariff/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -488,10 +490,12 @@
 ## Rolling Hash
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
+| [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Brainteaser
 |  |
