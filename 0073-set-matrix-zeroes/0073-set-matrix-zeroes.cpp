@@ -3,7 +3,7 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-vector<int> row(n, 0); // Use vector to store row markers
+        vector<int> row(n, 0); // Use vector to store row markers
         vector<int> col(m, 0);
 
     // Traverse the matrix:
