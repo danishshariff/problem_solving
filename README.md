@@ -95,6 +95,7 @@
 | [0503-next-greater-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/danishshariff/problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/danishshariff/problem_solving/tree/master/0792-binary-search) |
@@ -170,6 +171,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/danishshariff/problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -429,6 +431,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/danishshariff/problem_solving/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/danishshariff/problem_solving/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishshariff/problem_solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
