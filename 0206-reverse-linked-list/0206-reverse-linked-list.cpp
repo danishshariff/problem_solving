@@ -26,17 +26,28 @@ public:
         // }
         // return head;
 
-        ListNode* temp=head;
-        ListNode* prev=nullptr;
+        // ListNode* temp=head;
+        // ListNode* prev=nullptr;
 
-        while(temp!=NULL){
-            ListNode* front=temp->next;
-            temp->next=prev;
-            prev=temp;
-            temp=front;
-        }
+        // while(temp!=NULL){
+        //     ListNode* front=temp->next;
+        //     temp->next=prev;
+        //     prev=temp;
+        //     temp=front;
+        // }
 
-        return prev;
+        // return prev;
+
+        //optimal using recursion
+         if (head == NULL || head->next == NULL) {
+        return head;
+    }
+        ListNode* newhead=reverseList(head->next);
+        ListNode* front=head->next;
+        front->next=head;
+        head->next=nullptr;
+        return newhead;
+
 
       
     }
