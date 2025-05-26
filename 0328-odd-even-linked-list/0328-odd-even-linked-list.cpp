@@ -42,36 +42,58 @@ public:
 
         //index based
 
-        if (!head) return nullptr;
+//         if (!head) return nullptr;
 
-        ListNode* oddHead = new ListNode(-1);   // dummy for odd-indexed nodes
-        ListNode* evenHead = new ListNode(-1);  // dummy for even-indexed nodes
-        ListNode* odd = oddHead;
-        ListNode* even = evenHead;
+//         ListNode* oddHead = new ListNode(-1);   // dummy for odd-indexed nodes
+//         ListNode* evenHead = new ListNode(-1);  // dummy for even-indexed nodes
+//         ListNode* odd = oddHead;
+//         ListNode* even = evenHead;
 
-        ListNode* temp = head;
-        int index = 1; // start from position 1
+//         ListNode* temp = head;
+//         int index = 1; // start from position 1
 
-        while (temp != nullptr) {
-            if (index % 2 == 1) {
-                odd->next = temp;
-                odd = odd->next;
-            } else {
-                even->next = temp;
-                even = even->next;
-            }
-            temp = temp->next;
-            index++;
+//         while (temp != nullptr) {
+//             if (index % 2 == 1) {
+//                 odd->next = temp;
+//                 odd = odd->next;
+//             } else {
+//                 even->next = temp;
+//                 even = even->next;
+//             }
+//             temp = temp->next;
+//             index++;
+//         }
+
+//         // End the even list properly to avoid cycles
+//         even->next = nullptr;
+
+//         // Link odd list to even list
+//         odd->next = evenHead->next;
+
+//         return oddHead->next;
+//     }
+// };
+
+// optimal but same thing 0(1);
+        if (!head || !head->next) return head;
+
+        ListNode* odd = head;
+        ListNode* even = head->next;
+        ListNode* evenHead = even; // Save starting point of even list
+
+        while (even && even->next) {
+            odd->next = even->next;   // Link current odd to next odd
+            odd = odd->next;          // Move odd forward
+            even->next = odd->next;   // Link current even to next even
+            even = even->next;        // Move even forward
         }
 
-        // End the even list properly to avoid cycles
-        even->next = nullptr;
+        // Attach even list to the end of odd list
+        odd->next = evenHead;
 
-        // Link odd list to even list
-        odd->next = evenHead->next;
-
-        return oddHead->next;
+        return head;
     }
 };
+
 
   
