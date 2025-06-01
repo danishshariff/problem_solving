@@ -31,48 +31,76 @@ public:
 
         //using 2 stack
 
-         vector<int> postorder;
+    //      vector<int> postorder;
 
   
-    if(root == NULL){
-        return postorder;
-    }
+    // if(root == NULL){
+    //     return postorder;
+    // }
 
   
-    stack<TreeNode*> st1, st2;
+    // stack<TreeNode*> st1, st2;
 
     
-    st1.push(root);
+    // st1.push(root);
 
-    while(!st1.empty()){
+    // while(!st1.empty()){
         
-        root = st1.top();
-        st1.pop();
+    //     root = st1.top();
+    //     st1.pop();
 
       
-        st2.push(root);
+    //     st2.push(root);
 
         
-        if(root->left != NULL){
-            st1.push(root->left);
-        }
+    //     if(root->left != NULL){
+    //         st1.push(root->left);
+    //     }
 
        
-        if(root->right != NULL){
-            st1.push(root->right);
+    //     if(root->right != NULL){
+    //         st1.push(root->right);
+    //     }
+    // }
+
+    
+    // while(!st2.empty()){
+    //     postorder.push_back(st2.top()->val);
+    //     st2.pop();
+    // }
+
+   
+    // return postorder;
+
+vector<int> postorder;
+
+TreeNode* curr=root;
+stack<TreeNode*> st;
+while(curr!=NULL || !st.empty()){
+    if(curr!=NULL){
+    st.push(curr);
+    curr=curr->left;
+    }
+    else{
+        TreeNode* temp=st.top()->right;
+        if(temp==NULL){
+            temp=st.top();
+            st.pop();
+            postorder.push_back(temp->val);
+            while(!st.empty() && temp==st.top()->right){
+                temp=st.top();
+                st.pop();
+                postorder.push_back(temp->val);
+            }
+        }
+        else{
+            curr=temp;
         }
     }
 
-    
-    while(!st2.empty()){
-        postorder.push_back(st2.top()->val);
-        st2.pop();
-    }
+}
 
-   
-    return postorder;
-
-
+return postorder;
 
 
     }
