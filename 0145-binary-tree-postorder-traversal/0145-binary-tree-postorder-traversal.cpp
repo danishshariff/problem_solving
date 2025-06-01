@@ -12,19 +12,67 @@
 class Solution {
 public:
     vector<int> postorderTraversal(TreeNode* root) {
-        vector<int> postorder;
-        if(root==nullptr){
-            return postorder;
+
+        //using recursion
+        
+        // vector<int> postorder;
+        // if(root==nullptr){
+        //     return postorder;
+        // }
+
+        // vector<int> left=postorderTraversal(root->left);
+        // vector<int> right=postorderTraversal(root->right);
+
+        // postorder.insert(postorder.end(),left.begin(),left.end());
+        // postorder.insert(postorder.end(),right.begin(),right.end());
+        // postorder.push_back(root->val);
+
+        // return postorder;
+
+        //using 2 stack
+
+         vector<int> postorder;
+
+  
+    if(root == NULL){
+        return postorder;
+    }
+
+  
+    stack<TreeNode*> st1, st2;
+
+    
+    st1.push(root);
+
+    while(!st1.empty()){
+        
+        root = st1.top();
+        st1.pop();
+
+      
+        st2.push(root);
+
+        
+        if(root->left != NULL){
+            st1.push(root->left);
         }
 
-        vector<int> left=postorderTraversal(root->left);
-        vector<int> right=postorderTraversal(root->right);
+       
+        if(root->right != NULL){
+            st1.push(root->right);
+        }
+    }
 
-        postorder.insert(postorder.end(),left.begin(),left.end());
-        postorder.insert(postorder.end(),right.begin(),right.end());
-        postorder.push_back(root->val);
+    
+    while(!st2.empty()){
+        postorder.push_back(st2.top()->val);
+        st2.pop();
+    }
 
-        return postorder;
+   
+    return postorder;
+
+
 
 
     }
