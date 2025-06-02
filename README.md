@@ -386,6 +386,7 @@
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/danishshariff/problem_solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/danishshariff/problem_solving/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/danishshariff/problem_solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/danishshariff/problem_solving/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/danishshariff/problem_solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Divide and Conquer
@@ -442,6 +443,7 @@
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/danishshariff/problem_solving/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## String Matching
 |  |
 | ------- |
