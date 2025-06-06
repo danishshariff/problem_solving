@@ -79,6 +79,7 @@
 | [0085-maximal-rectangle](https://github.com/danishshariff/problem_solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/danishshariff/problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0135-candy](https://github.com/danishshariff/problem_solving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/danishshariff/problem_solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/danishshariff/problem_solving/tree/master/0162-find-peak-element) |
@@ -237,6 +238,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/danishshariff/problem_solving/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/danishshariff/problem_solving/tree/master/0055-jump-game) |
+| [0135-candy](https://github.com/danishshariff/problem_solving/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/danishshariff/problem_solving/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
