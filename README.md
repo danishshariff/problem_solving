@@ -80,6 +80,7 @@
 | [0085-maximal-rectangle](https://github.com/danishshariff/problem_solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/danishshariff/problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/danishshariff/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/danishshariff/problem_solving/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/danishshariff/problem_solving/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -174,6 +175,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/danishshariff/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/danishshariff/problem_solving/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/danishshariff/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/danishshariff/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/danishshariff/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/danishshariff/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
@@ -664,4 +666,8 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/danishshariff/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
