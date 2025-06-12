@@ -185,6 +185,7 @@
 | [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
+| [0424-longest-repeating-character-replacement](https://github.com/danishshariff/problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/danishshariff/problem_solving/tree/master/0496-next-greater-element-i) |
 | [0525-contiguous-array](https://github.com/danishshariff/problem_solving/tree/master/0525-contiguous-array) |
@@ -269,6 +270,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danishshariff/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/danishshariff/problem_solving/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/danishshariff/problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -389,6 +391,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/danishshariff/problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/danishshariff/problem_solving/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/danishshariff/problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/danishshariff/problem_solving/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
