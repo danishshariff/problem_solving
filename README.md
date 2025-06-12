@@ -168,6 +168,7 @@
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3621-minimum-operations-to-make-array-values-equal-to-k](https://github.com/danishshariff/problem_solving/tree/master/3621-minimum-operations-to-make-array-values-equal-to-k) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/danishshariff/problem_solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/danishshariff/problem_solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
 | ------- |
