@@ -109,6 +109,7 @@
 | [0890-lemonade-change](https://github.com/danishshariff/problem_solving/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0907-koko-eating-bananas](https://github.com/danishshariff/problem_solving/tree/master/0907-koko-eating-bananas) |
+| [0940-fruit-into-baskets](https://github.com/danishshariff/problem_solving/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishshariff/problem_solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -191,6 +192,7 @@
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0940-fruit-into-baskets](https://github.com/danishshariff/problem_solving/tree/master/0940-fruit-into-baskets) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/danishshariff/problem_solving/tree/master/1500-count-largest-group) |
@@ -270,6 +272,7 @@
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0940-fruit-into-baskets](https://github.com/danishshariff/problem_solving/tree/master/0940-fruit-into-baskets) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishshariff/problem_solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishshariff/problem_solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
