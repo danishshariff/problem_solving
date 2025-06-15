@@ -3,26 +3,22 @@ public:
     int numberOfSubstrings(string s) {
         int n = s.length();
         int left = 0, right = 0;
-        int result = 0;
-        vector<int> count(3, 0);
+        int count = 0;
+        vector<int> lastseen(3, -1);
         while (right < n) {
             
-            count[s[right] - 'a']++;
+            lastseen[s[right] - 'a']=right;
 
            
-            while (count[0] > 0 && count[1] > 0 && count[2] > 0) {
+            if (lastseen[0]!=-1 && lastseen[1]!=-1 && lastseen[2]!=-1) {
                
-                result += n - right;
-
-                
-                count[s[left] - 'a']--;
-                left++;
+                count+=(1+min({lastseen[0],lastseen[1],lastseen[2]}));
             }
 
             
             right++;
         }
 
-        return result;
+        return count;
     }
 };
