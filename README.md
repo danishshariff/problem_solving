@@ -411,6 +411,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danishshariff/problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/danishshariff/problem_solving/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/danishshariff/problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/danishshariff/problem_solving/tree/master/0402-remove-k-digits) |
@@ -464,6 +465,7 @@
 | [0118-pascals-triangle](https://github.com/danishshariff/problem_solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
@@ -633,6 +635,7 @@
 | [0051-n-queens](https://github.com/danishshariff/problem_solving/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/danishshariff/problem_solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/danishshariff/problem_solving/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/danishshariff/problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
