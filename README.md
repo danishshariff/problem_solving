@@ -103,6 +103,7 @@
 | [0239-sliding-window-maximum](https://github.com/danishshariff/problem_solving/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/danishshariff/problem_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/danishshariff/problem_solving/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -331,6 +332,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/danishshariff/problem_solving/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -755,4 +757,8 @@
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/danishshariff/problem_solving/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/danishshariff/problem_solving/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
