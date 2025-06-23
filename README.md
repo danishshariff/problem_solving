@@ -213,6 +213,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0940-fruit-into-baskets](https://github.com/danishshariff/problem_solving/tree/master/0940-fruit-into-baskets) |
 | [0966-binary-subarrays-with-sum](https://github.com/danishshariff/problem_solving/tree/master/0966-binary-subarrays-with-sum) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/danishshariff/problem_solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/danishshariff/problem_solving/tree/master/1370-count-number-of-nice-subarrays) |
@@ -330,6 +331,7 @@
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -642,6 +644,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -669,6 +672,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/danishshariff/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -683,6 +687,7 @@
 | [0386-lexicographical-numbers](https://github.com/danishshariff/problem_solving/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -697,6 +702,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/danishshariff/problem_solving/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
