@@ -428,6 +428,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/danishshariff/problem_solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/danishshariff/problem_solving/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/danishshariff/problem_solving/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danishshariff/problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/danishshariff/problem_solving/tree/master/0020-valid-parentheses) |
