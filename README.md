@@ -15,6 +15,7 @@
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/danishshariff/problem_solving/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/danishshariff/problem_solving/tree/master/1370-count-number-of-nice-subarrays) |
@@ -438,6 +439,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/danishshariff/problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/danishshariff/problem_solving/tree/master/0402-remove-k-digits) |
+| [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishshariff/problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/danishshariff/problem_solving/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
@@ -526,6 +528,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/danishshariff/problem_solving/tree/master/0054-spiral-matrix) |
+| [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/danishshariff/problem_solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
