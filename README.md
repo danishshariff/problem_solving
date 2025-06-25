@@ -770,4 +770,8 @@
 |  |
 | ------- |
 | [0274-h-index](https://github.com/danishshariff/problem_solving/tree/master/0274-h-index) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/danishshariff/problem_solving/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
