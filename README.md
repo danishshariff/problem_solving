@@ -414,6 +414,7 @@
 | [0234-palindrome-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/danishshariff/problem_solving/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/danishshariff/problem_solving/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
@@ -441,6 +442,7 @@
 | [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/danishshariff/problem_solving/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/danishshariff/problem_solving/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/danishshariff/problem_solving/tree/master/0402-remove-k-digits) |
 | [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishshariff/problem_solving/tree/master/0424-longest-repeating-character-replacement) |
@@ -497,6 +499,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
+| [0392-is-subsequence](https://github.com/danishshariff/problem_solving/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
