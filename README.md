@@ -148,6 +148,7 @@
 | [2145-grid-game](https://github.com/danishshariff/problem_solving/tree/master/2145-grid-game) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/danishshariff/problem_solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2227-sum-of-subarray-ranges](https://github.com/danishshariff/problem_solving/tree/master/2227-sum-of-subarray-ranges) |
 | [2262-solving-questions-with-brainpower](https://github.com/danishshariff/problem_solving/tree/master/2262-solving-questions-with-brainpower) |
@@ -226,6 +227,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/danishshariff/problem_solving/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/danishshariff/problem_solving/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -343,6 +345,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/danishshariff/problem_solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/danishshariff/problem_solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -358,6 +361,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/danishshariff/problem_solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
+| [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/danishshariff/problem_solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
