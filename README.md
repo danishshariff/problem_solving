@@ -135,6 +135,7 @@
 | [1524-string-matching-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishshariff/problem_solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/danishshariff/problem_solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1656-count-good-triplets](https://github.com/danishshariff/problem_solving/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/danishshariff/problem_solving/tree/master/1755-defuse-the-bomb) |
@@ -267,6 +268,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/danishshariff/problem_solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/danishshariff/problem_solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -343,6 +345,7 @@
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/danishshariff/problem_solving/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/danishshariff/problem_solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/danishshariff/problem_solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -424,6 +427,7 @@
 | [0567-permutation-in-string](https://github.com/danishshariff/problem_solving/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0908-middle-of-the-linked-list) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/danishshariff/problem_solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/danishshariff/problem_solving/tree/master/1972-rotating-the-box) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/danishshariff/problem_solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
