@@ -11,15 +11,6 @@ public:
 
     }
     bool checkInclusion(string s1, string s2) {
-        // if (s1.size() > s2.size()) return false;
-        // vector<int> freq1(26, 0), freq2(26, 0);
-        // for (char c : s1) freq1[c - 'a']++;
-        // for (int i = 0; i < s2.size(); i++) {
-        //     freq2[s2[i] - 'a']++;
-        //     if (i >= s1.size()) freq2[s2[i - s1.size()] - 'a']--;
-        //     if (freq1 == freq2) return true;
-        // }
-        // return false;
         int count1[26]={0};
         for(int i=0;i<s1.length();i++){
             int index=s1[i]-'a';
@@ -36,10 +27,10 @@ public:
             i++;
 
         }
-        if(checkeq(count1,count2)){
-            return 1;
-        }
-
+       
+          if(checkeq(count1,count2)){
+                return 1;
+            }
         while(i<s2.length()){
             char newchar=s2[i];
             int index=newchar-'a';
