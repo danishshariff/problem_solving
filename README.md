@@ -32,6 +32,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/danishshariff/problem_solving/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/danishshariff/problem_solving/tree/master/3321-type-of-triangle) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/danishshariff/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/danishshariff/problem_solving/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/danishshariff/problem_solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 ## Bit Manipulation
@@ -57,6 +58,7 @@
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/danishshariff/problem_solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/danishshariff/problem_solving/tree/master/3394-minimum-array-end) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/danishshariff/problem_solving/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/danishshariff/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Array
 |  |
 | ------- |
@@ -400,6 +402,7 @@
 | [0234-palindrome-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/danishshariff/problem_solving/tree/master/2050-count-good-numbers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/danishshariff/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -553,6 +556,7 @@
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/danishshariff/problem_solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/danishshariff/problem_solving/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/danishshariff/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String Matching
 |  |
 | ------- |
