@@ -131,6 +131,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/danishshariff/problem_solving/tree/master/0966-binary-subarrays-with-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/danishshariff/problem_solving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1034-subarrays-with-k-different-integers](https://github.com/danishshariff/problem_solving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/danishshariff/problem_solving/tree/master/1039-find-the-town-judge) |
 | [1046-max-consecutive-ones-iii](https://github.com/danishshariff/problem_solving/tree/master/1046-max-consecutive-ones-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/danishshariff/problem_solving/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -229,6 +230,7 @@
 | [0990-verifying-an-alien-dictionary](https://github.com/danishshariff/problem_solving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1034-subarrays-with-k-different-integers](https://github.com/danishshariff/problem_solving/tree/master/1034-subarrays-with-k-different-integers) |
+| [1039-find-the-town-judge](https://github.com/danishshariff/problem_solving/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1370-count-number-of-nice-subarrays](https://github.com/danishshariff/problem_solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -806,4 +808,8 @@
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/danishshariff/problem_solving/tree/master/1203-print-in-order) |
+## Graph
+|  |
+| ------- |
+| [1039-find-the-town-judge](https://github.com/danishshariff/problem_solving/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
