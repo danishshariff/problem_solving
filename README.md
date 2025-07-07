@@ -103,6 +103,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/danishshariff/problem_solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/danishshariff/problem_solving/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/danishshariff/problem_solving/tree/master/0238-product-of-array-except-self) |
@@ -528,6 +529,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/danishshariff/problem_solving/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/danishshariff/problem_solving/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
