@@ -17,20 +17,40 @@ public:
 //     }
 // };
 
-    int rob(vector<int>& nums) {
+//     int rob(vector<int>& nums) {
+//         int n = nums.size();
+//         vector<int> dp(n, -1); 
+//         dp[0]=nums[0];
+//         for(int i=1;i<nums.size();i++){
+//             int pick=nums[i];
+//              int notpick=0;
+//             if(i>1){
+//               pick += dp[i-2];
+//             }
+//         notpick = dp[i - 1];
+
+//          dp[i] = max(pick, notpick);
+//         }
+//         return dp[n-1];
+//     }
+// };
+
+  int rob(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp(n, -1); 
-        dp[0]=nums[0];
+        int prev=nums[0];
+        int prev2=0;
         for(int i=1;i<nums.size();i++){
             int pick=nums[i];
              int notpick=0;
             if(i>1){
-              pick += dp[i-2];
+              pick += prev2;
             }
-        notpick = dp[i - 1];
+        notpick = prev;
 
-         dp[i] = max(pick, notpick);
+         int cur = max(pick, notpick);
+         prev2=prev;
+         prev=cur;
         }
-        return dp[n-1];
+        return prev;
     }
 };
