@@ -173,6 +173,7 @@
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/danishshariff/problem_solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2358-number-of-ways-to-split-array](https://github.com/danishshariff/problem_solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2478-longest-nice-subarray](https://github.com/danishshariff/problem_solving/tree/master/2478-longest-nice-subarray) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/danishshariff/problem_solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/danishshariff/problem_solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/danishshariff/problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/danishshariff/problem_solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -314,6 +315,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/danishshariff/problem_solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/danishshariff/problem_solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/danishshariff/problem_solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/danishshariff/problem_solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
@@ -374,6 +376,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/danishshariff/problem_solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/danishshariff/problem_solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/danishshariff/problem_solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -462,6 +465,7 @@
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/danishshariff/problem_solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/danishshariff/problem_solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/danishshariff/problem_solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/danishshariff/problem_solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/danishshariff/problem_solving/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
