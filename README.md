@@ -99,6 +99,7 @@
 | [0088-merge-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/danishshariff/problem_solving/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/danishshariff/problem_solving/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/danishshariff/problem_solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/danishshariff/problem_solving/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/danishshariff/problem_solving/tree/master/0135-candy) |
@@ -551,6 +552,7 @@
 | [0070-climbing-stairs](https://github.com/danishshariff/problem_solving/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/danishshariff/problem_solving/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/danishshariff/problem_solving/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/danishshariff/problem_solving/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/danishshariff/problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
