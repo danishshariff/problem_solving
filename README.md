@@ -139,6 +139,7 @@
 | [0940-fruit-into-baskets](https://github.com/danishshariff/problem_solving/tree/master/0940-fruit-into-baskets) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/danishshariff/problem_solving/tree/master/0966-binary-subarrays-with-sum) |
+| [0967-minimum-falling-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0967-minimum-falling-path-sum) |
 | [0990-verifying-an-alien-dictionary](https://github.com/danishshariff/problem_solving/tree/master/0990-verifying-an-alien-dictionary) |
 | [1034-subarrays-with-k-different-integers](https://github.com/danishshariff/problem_solving/tree/master/1034-subarrays-with-k-different-integers) |
 | [1039-find-the-town-judge](https://github.com/danishshariff/problem_solving/tree/master/1039-find-the-town-judge) |
@@ -562,6 +563,7 @@
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
+| [0967-minimum-falling-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0967-minimum-falling-path-sum) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 | [2262-solving-questions-with-brainpower](https://github.com/danishshariff/problem_solving/tree/master/2262-solving-questions-with-brainpower) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danishshariff/problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -587,6 +589,7 @@
 | [0085-maximal-rectangle](https://github.com/danishshariff/problem_solving/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/danishshariff/problem_solving/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [0967-minimum-falling-path-sum](https://github.com/danishshariff/problem_solving/tree/master/0967-minimum-falling-path-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/danishshariff/problem_solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/danishshariff/problem_solving/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
