@@ -120,6 +120,7 @@
 | [0274-h-index](https://github.com/danishshariff/problem_solving/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0283-move-zeroes) |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/danishshariff/problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/danishshariff/problem_solving/tree/master/0485-max-consecutive-ones) |
@@ -560,6 +561,7 @@
 | [0198-house-robber](https://github.com/danishshariff/problem_solving/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/danishshariff/problem_solving/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/danishshariff/problem_solving/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/danishshariff/problem_solving/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/danishshariff/problem_solving/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/danishshariff/problem_solving/tree/master/0943-sum-of-subarray-minimums) |
