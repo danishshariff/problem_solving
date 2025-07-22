@@ -159,6 +159,7 @@
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/danishshariff/problem_solving/tree/master/1755-defuse-the-bomb) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
+| [1813-maximum-erasure-value](https://github.com/danishshariff/problem_solving/tree/master/1813-maximum-erasure-value) |
 | [1940-maximum-xor-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/1940-maximum-xor-for-each-query) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/danishshariff/problem_solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
 | [1972-rotating-the-box](https://github.com/danishshariff/problem_solving/tree/master/1972-rotating-the-box) |
@@ -256,6 +257,7 @@
 | [1500-count-largest-group](https://github.com/danishshariff/problem_solving/tree/master/1500-count-largest-group) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1813-maximum-erasure-value](https://github.com/danishshariff/problem_solving/tree/master/1813-maximum-erasure-value) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/danishshariff/problem_solving/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
 | [2308-divide-array-into-equal-pairs](https://github.com/danishshariff/problem_solving/tree/master/2308-divide-array-into-equal-pairs) |
@@ -353,6 +355,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishshariff/problem_solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/danishshariff/problem_solving/tree/master/1755-defuse-the-bomb) |
+| [1813-maximum-erasure-value](https://github.com/danishshariff/problem_solving/tree/master/1813-maximum-erasure-value) |
 | [2478-longest-nice-subarray](https://github.com/danishshariff/problem_solving/tree/master/2478-longest-nice-subarray) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/danishshariff/problem_solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/danishshariff/problem_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
