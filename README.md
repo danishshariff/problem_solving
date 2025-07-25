@@ -219,6 +219,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/danishshariff/problem_solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/danishshariff/problem_solving/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/danishshariff/problem_solving/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/danishshariff/problem_solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
 | ------- |
@@ -276,6 +277,7 @@
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/danishshariff/problem_solving/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/danishshariff/problem_solving/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/danishshariff/problem_solving/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/danishshariff/problem_solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/danishshariff/problem_solving/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/danishshariff/problem_solving/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/danishshariff/problem_solving/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/danishshariff/problem_solving/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
