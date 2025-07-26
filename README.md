@@ -28,6 +28,7 @@
 | [2050-count-good-numbers](https://github.com/danishshariff/problem_solving/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/danishshariff/problem_solving/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/danishshariff/problem_solving/tree/master/2610-closest-prime-numbers-in-range) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/danishshariff/problem_solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
 | [2998-count-symmetric-integers](https://github.com/danishshariff/problem_solving/tree/master/2998-count-symmetric-integers) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/danishshariff/problem_solving/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -332,6 +333,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danishshariff/problem_solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/danishshariff/problem_solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/danishshariff/problem_solving/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/danishshariff/problem_solving/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/danishshariff/problem_solving/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
