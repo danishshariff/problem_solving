@@ -240,6 +240,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/danishshariff/problem_solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/danishshariff/problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/danishshariff/problem_solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -385,6 +386,7 @@
 | [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/danishshariff/problem_solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/danishshariff/problem_solving/tree/master/0274-h-index) |
 | [0455-assign-cookies](https://github.com/danishshariff/problem_solving/tree/master/0455-assign-cookies) |
@@ -507,6 +509,7 @@
 | [0125-valid-palindrome](https://github.com/danishshariff/problem_solving/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/danishshariff/problem_solving/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/danishshariff/problem_solving/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/danishshariff/problem_solving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/danishshariff/problem_solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/danishshariff/problem_solving/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/danishshariff/problem_solving/tree/master/0402-remove-k-digits) |
