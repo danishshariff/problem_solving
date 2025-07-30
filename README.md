@@ -25,6 +25,7 @@
 | [1500-count-largest-group](https://github.com/danishshariff/problem_solving/tree/master/1500-count-largest-group) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/danishshariff/problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2032-largest-odd-number-in-string](https://github.com/danishshariff/problem_solving/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/danishshariff/problem_solving/tree/master/2050-count-good-numbers) |
 | [2383-add-two-integers](https://github.com/danishshariff/problem_solving/tree/master/2383-add-two-integers) |
 | [2610-closest-prime-numbers-in-range](https://github.com/danishshariff/problem_solving/tree/master/2610-closest-prime-numbers-in-range) |
@@ -338,6 +339,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/danishshariff/problem_solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1956-maximum-element-after-decreasing-and-rearranging](https://github.com/danishshariff/problem_solving/tree/master/1956-maximum-element-after-decreasing-and-rearranging) |
+| [2032-largest-odd-number-in-string](https://github.com/danishshariff/problem_solving/tree/master/2032-largest-odd-number-in-string) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/danishshariff/problem_solving/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2509-minimize-xor](https://github.com/danishshariff/problem_solving/tree/master/2509-minimize-xor) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/danishshariff/problem_solving/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -536,6 +538,7 @@
 | [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
 | [1524-string-matching-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1524-string-matching-in-an-array) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2032-largest-odd-number-in-string](https://github.com/danishshariff/problem_solving/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/danishshariff/problem_solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danishshariff/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2580-circular-sentence](https://github.com/danishshariff/problem_solving/tree/master/2580-circular-sentence) |
