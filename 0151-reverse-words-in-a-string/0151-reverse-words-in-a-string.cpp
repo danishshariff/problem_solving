@@ -13,10 +13,9 @@ public:
         }
         reverse(words.begin(),words.end());
         if(words.length()>0){
-            if (!ans.empty()) ans += ' ';
-                ans += words;
+                ans += " "+words;
         }
         }
-        return ans;
+        return ans.substr(1);
     }
 };
