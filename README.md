@@ -888,6 +888,7 @@
 | [0175-combine-two-tables](https://github.com/danishshariff/problem_solving/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/danishshariff/problem_solving/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/danishshariff/problem_solving/tree/master/0177-nth-highest-salary) |
+| [1827-invalid-tweets](https://github.com/danishshariff/problem_solving/tree/master/1827-invalid-tweets) |
 ## Concurrency
 |  |
 | ------- |
