@@ -16,6 +16,7 @@
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/danishshariff/problem_solving/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/danishshariff/problem_solving/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
@@ -458,6 +459,7 @@
 | [0206-reverse-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/danishshariff/problem_solving/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/danishshariff/problem_solving/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
 | [2050-count-good-numbers](https://github.com/danishshariff/problem_solving/tree/master/2050-count-good-numbers) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/danishshariff/problem_solving/tree/master/3600-find-the-k-th-character-in-string-game-i) |
