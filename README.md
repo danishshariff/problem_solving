@@ -549,6 +549,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/danishshariff/problem_solving/tree/master/2032-largest-odd-number-in-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/danishshariff/problem_solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/danishshariff/problem_solving/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/danishshariff/problem_solving/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2580-circular-sentence](https://github.com/danishshariff/problem_solving/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/danishshariff/problem_solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/danishshariff/problem_solving/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
