@@ -780,6 +780,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/danishshariff/problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0407-trapping-rain-water-ii](https://github.com/danishshariff/problem_solving/tree/master/0407-trapping-rain-water-ii) |
+| [0547-number-of-provinces](https://github.com/danishshariff/problem_solving/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
@@ -829,6 +830,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/danishshariff/problem_solving/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/danishshariff/problem_solving/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/danishshariff/problem_solving/tree/master/0547-number-of-provinces) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/danishshariff/problem_solving/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
@@ -886,6 +888,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/danishshariff/problem_solving/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/danishshariff/problem_solving/tree/master/0547-number-of-provinces) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -913,5 +916,6 @@
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/danishshariff/problem_solving/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/danishshariff/problem_solving/tree/master/1039-find-the-town-judge) |
 <!---LeetCode Topics End-->
