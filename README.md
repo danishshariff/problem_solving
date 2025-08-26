@@ -14,6 +14,7 @@
 | [0062-unique-paths](https://github.com/danishshariff/problem_solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/danishshariff/problem_solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/danishshariff/problem_solving/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/danishshariff/problem_solving/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/danishshariff/problem_solving/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/danishshariff/problem_solving/tree/master/0326-power-of-three) |
@@ -117,6 +118,7 @@
 | [0169-majority-element](https://github.com/danishshariff/problem_solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/danishshariff/problem_solving/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/danishshariff/problem_solving/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/danishshariff/problem_solving/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/danishshariff/problem_solving/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/danishshariff/problem_solving/tree/master/0229-majority-element-ii) |
@@ -691,6 +693,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/danishshariff/problem_solving/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/danishshariff/problem_solving/tree/master/2610-closest-prime-numbers-in-range) |
 | [2716-prime-subtraction-operation](https://github.com/danishshariff/problem_solving/tree/master/2716-prime-subtraction-operation) |
 ## Stack
@@ -860,6 +863,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/danishshariff/problem_solving/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/danishshariff/problem_solving/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/danishshariff/problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/danishshariff/problem_solving/tree/master/2215-finding-3-digit-even-numbers) |
