@@ -168,6 +168,7 @@
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/danishshariff/problem_solving/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/danishshariff/problem_solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1646-kth-missing-positive-number](https://github.com/danishshariff/problem_solving/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/danishshariff/problem_solving/tree/master/1656-count-good-triplets) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/danishshariff/problem_solving/tree/master/1755-defuse-the-bomb) |
@@ -322,6 +323,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/danishshariff/problem_solving/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/danishshariff/problem_solving/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/danishshariff/problem_solving/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1646-kth-missing-positive-number](https://github.com/danishshariff/problem_solving/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/danishshariff/problem_solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2047-find-a-peak-element-ii](https://github.com/danishshariff/problem_solving/tree/master/2047-find-a-peak-element-ii) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/danishshariff/problem_solving/tree/master/2179-most-beautiful-item-for-each-query) |
