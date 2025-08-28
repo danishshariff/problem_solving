@@ -88,6 +88,7 @@
 | [0037-sudoku-solver](https://github.com/danishshariff/problem_solving/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/danishshariff/problem_solving/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/danishshariff/problem_solving/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/danishshariff/problem_solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/danishshariff/problem_solving/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/danishshariff/problem_solving/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/danishshariff/problem_solving/tree/master/0049-group-anagrams) |
@@ -247,6 +248,7 @@
 | [0012-integer-to-roman](https://github.com/danishshariff/problem_solving/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/danishshariff/problem_solving/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/danishshariff/problem_solving/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/danishshariff/problem_solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/danishshariff/problem_solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/danishshariff/problem_solving/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/danishshariff/problem_solving/tree/master/0076-minimum-window-substring) |
