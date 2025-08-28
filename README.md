@@ -21,6 +21,7 @@
 | [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0670-maximum-swap](https://github.com/danishshariff/problem_solving/tree/master/0670-maximum-swap) |
 | [1013-fibonacci-number](https://github.com/danishshariff/problem_solving/tree/master/1013-fibonacci-number) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/danishshariff/problem_solving/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/danishshariff/problem_solving/tree/master/1370-count-number-of-nice-subarrays) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/danishshariff/problem_solving/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/danishshariff/problem_solving/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -354,6 +355,7 @@
 | [0678-valid-parenthesis-string](https://github.com/danishshariff/problem_solving/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/danishshariff/problem_solving/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/danishshariff/problem_solving/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1448-maximum-69-number](https://github.com/danishshariff/problem_solving/tree/master/1448-maximum-69-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/danishshariff/problem_solving/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
@@ -560,6 +562,7 @@
 | [1078-remove-outermost-parentheses](https://github.com/danishshariff/problem_solving/tree/master/1078-remove-outermost-parentheses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danishshariff/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
+| [1369-minimum-swaps-to-make-strings-equal](https://github.com/danishshariff/problem_solving/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
