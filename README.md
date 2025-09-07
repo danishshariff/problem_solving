@@ -570,6 +570,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/danishshariff/problem_solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/danishshariff/problem_solving/tree/master/1304-longest-happy-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/danishshariff/problem_solving/tree/master/1369-minimum-swaps-to-make-strings-equal) |
+| [1434-decrypt-string-from-alphabet-to-integer-mapping](https://github.com/danishshariff/problem_solving/tree/master/1434-decrypt-string-from-alphabet-to-integer-mapping) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/danishshariff/problem_solving/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1502-construct-k-palindrome-strings](https://github.com/danishshariff/problem_solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1508-longest-happy-prefix](https://github.com/danishshariff/problem_solving/tree/master/1508-longest-happy-prefix) |
