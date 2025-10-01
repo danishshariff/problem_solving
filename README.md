@@ -28,6 +28,7 @@
 | [1448-maximum-69-number](https://github.com/danishshariff/problem_solving/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/danishshariff/problem_solving/tree/master/1500-count-largest-group) |
 | [1610-xor-operation-in-an-array](https://github.com/danishshariff/problem_solving/tree/master/1610-xor-operation-in-an-array) |
+| [1642-water-bottles](https://github.com/danishshariff/problem_solving/tree/master/1642-water-bottles) |
 | [1787-sum-of-absolute-differences-in-a-sorted-array](https://github.com/danishshariff/problem_solving/tree/master/1787-sum-of-absolute-differences-in-a-sorted-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/danishshariff/problem_solving/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/danishshariff/problem_solving/tree/master/2032-largest-odd-number-in-string) |
@@ -673,6 +674,7 @@
 | [0054-spiral-matrix](https://github.com/danishshariff/problem_solving/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/danishshariff/problem_solving/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/danishshariff/problem_solving/tree/master/0735-asteroid-collision) |
+| [1642-water-bottles](https://github.com/danishshariff/problem_solving/tree/master/1642-water-bottles) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/danishshariff/problem_solving/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/danishshariff/problem_solving/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/danishshariff/problem_solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
